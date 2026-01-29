@@ -6,7 +6,7 @@
 
 当`openlist`部署的公网服务器**带宽过小**的时候，上传文件到**本地存储**（尤其是大文件）就会非常难受，本项目产生的意义就是为了**解决上传本地存储过慢**的问题（H3CoF6遇到的问题其实是**校园网过于拉跨**，scp的速度没有上传QQ，`napcat`下载的速度快）
 
-![image-20260129233026166](C:\Users\17078\AppData\Roaming\Typora\typora-user-images\image-20260129233026166.png)
+![image-20260129233026166](.\images\image-20260129233026166.png)
 
 #### 项目feature
 
@@ -51,12 +51,13 @@
 #### 项目截图
 
 1. 深链接：
-   ![image-20260129234023148](C:\Users\17078\AppData\Roaming\Typora\typora-user-images\image-20260129234023148.png)
+   ![image-20260129234023148](.\images\image-20260129234023148.png)
 2. 文件夹结构预览和选择
-   ![image-20260129234147106](C:\Users\17078\AppData\Roaming\Typora\typora-user-images\image-20260129234147106.png)
+   ![image-20260129234147106](.\images\image-20260129234147106.png)
 3. 离线下载导入
-   ![image-20260129234243746](C:\Users\17078\AppData\Roaming\Typora\typora-user-images\image-20260129234243746.png)
+   ![image-20260129234243746](.\images\image-20260129234243746.png)
 
 #### 说明
 
 本项目**不再随`openlist`主仓库更新**，<del>并且因为不可言说的原因无法合并</del>，所以本仓库的定位只是一个  **个人，小众需求实现的项目**  ，请不要大范围推广啊啊啊！！！
+
